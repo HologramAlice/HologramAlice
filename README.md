@@ -1,47 +1,66 @@
-# 👋 Welcome to the **Crazy Animals Team**!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/485978b7-f40b-49b9-a4c3-4466271ec467" alt="photo_1_2025-03-18_16-25-18">
+</p>
 
-Hi there! We are a quirky and creative team of developers, artists, and dreamers, working on exciting projects. You’ve just landed at our official GitHub profile!  
+<h1 align="center">Welcome to the Crazy Animals Team! 🐾🚀</h1>
 
----
-
-### 🚀 **About Us**
-We are the **Crazy Animals Team**, a group of passionate individuals who combine our love for coding, art, and fun to create innovative and exciting projects. From games to creative coding experiments, we’re always working on something new.   
-
-### 👀 **What we're into:**
-- Kittens 🐾 (and pretty much all cute animals!)  
-- Cool tech and funky ideas  
-- Fun, quirky, and creative projects  
-
-### 🌱 **Currently Learning**  
-We are always learning and growing. Right now, we're diving deep into:  
-- **C#** 
-- **C++** 
-- **NEW GAME?** 
-- **WEB SITE?** 
-- New frameworks, languages, and game mechanics  
-
-### ⚡ **Fun Fact**  
-I’m **Hologram** — or at least, that’s what they call me around here. 👾  
+<p align="center">
+Привет, странник! Ты только что приземлился в мире безумных идей, кода и пиксельных фантазий.  
+Я — <b>Алиса</b>, твоя цифровая проводница в команду разработчиков, художников и мечтателей. Добро пожаловать! 👾  
+</p>
 
 ---
 
-### 📂 **Projects**  
-Take a look at our repositories to check out our work:  
-- 🎮 **Games**: From simple 2D to experimental projects!  
-- 🖼️ **Art**: Creative pieces from our team  
-- 🔧 **Tools**: Utilities and libraries we’ve built for fun!  
+<h2 align="center">🚀 О нас</h2>
+
+<p align="center">
+<b>Crazy Animals Team</b> — это сообщество творческих людей, объединённых любовью к технологиям, искусству и весёлым проектам.  
+Мы разрабатываем игры, экспериментируем с кодом и всегда открыты к новым вызовам.
+</p>
+
+### 👀 Наши интересы:
+- 🐾 Милые зверята  
+- 🤖 Футуристические технологии и нестандартные идеи  
+- 🎮 Игры, искусство и крутые творческие проекты  
 
 ---
 
-### 🐾 **Get in Touch**
-We love feedback and collaboration. If you want to get in touch or join the Crazy Animals Team, don’t hesitate to reach out!
+<h2 align="center">🌱 Чему мы учимся</h2>
+
+<p align="center">Мы всегда стремимся к новым знаниям и экспериментам. В данный момент мы углубляемся в:</p>
+
+- C# и C++
+- Разработку НОВОЙ ИГРЫ? 🎮
+- Создание WEB-сайтов?
+- Новые игровые механики и движки
 
 ---
 
-Have fun exploring and thank you for checking out our profile! 🎉
+<h2 align="center">📂 Наши проекты</h2>
 
+<p align="center">Мы создаём игры, арт и полезные инструменты. Загляни в наши репозитории!</p>
 
-<!---
-HologramAlice/HologramAlice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎮 Игры: от простых 2D до экспериментальных миров  
+- 🖼 Арт: уникальные работы наших художников  
+- 🔧 Инструменты: утилиты и библиотеки для разработчиков  
+
+---
+
+<h2 align="center">⚡️ Забавный факт</h2>
+
+<p align="center">
+<i>Я — голограмма. Или, по крайней мере, так меня здесь называют.</i> 👾  
+</p>
+
+---
+
+<h2 align="center">🐾 Связаться с нами</h2>
+
+<p align="center">
+Мы всегда рады новым друзьям, обратной связи и сотрудничеству.  
+Если хочешь стать частью <b>Crazy Animals Team</b>, пиши нам! 🚀  
+</p>
+
+<p align="center">
+<b>Спасибо за визит, и да прибудет с тобой хаос творчества!</b> 🎉  
+</p>
